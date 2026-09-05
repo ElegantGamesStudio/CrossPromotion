@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "AppsList-Android": [
+    {
+      "AppTitle": "Police Van Driving Cop Chase",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/ambulance.png",
+      "Id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
+      "Asin": "B0FPMCN5YD"
+    },
+    {
+      "AppTitle": "Real Moto Stunt Driving Racing",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/car_black.png",
+      "Id": "com.gf.ultimate.monstertrucks",
+      "Asin": "B0FLDXSSRB"
+    },
+    {
+      "AppTitle": "Ambulance Rescue Rush Simulator",
+     "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/supra__car.png",
+      "Id": "com.gf.oil.tanker.transport.offroad.truckdriver",
+      "Asin": "B0FM2N6BVG"
+    }
+  ],
+  "AppsList-iOS": []
+}
