@@ -1,5 +1,5 @@
 {
-  "Version": 1,
+  "Version": 2,
   "AppsList-Android": [
     {
       "AppTitle": "Police Van Driving Cop Chase",
@@ -15,9 +15,15 @@
     },
     {
       "AppTitle": "Ambulance Rescue Rush Simulator",
-     "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/supra__car.png",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/supra__car.png",
       "Id": "com.gf.oil.tanker.transport.offroad.truckdriver",
       "Asin": "B0FM2N6BVG"
+    },
+    {
+      "AppTitle": "Miami Gangster Sim Crime City",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/miami_gangster_sim_crime_city.png",
+      "Id": "com.miami.gangster",
+      "Asin": "B0H8P5V3GS"
     }
   ],
   "AppsList-iOS": []
