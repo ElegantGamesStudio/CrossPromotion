@@ -1,5 +1,5 @@
 {
-  "Version": 1,
+  "Version": 2,
   "AppsList-Android": [
     {
       "AppTitle": "Police Van Driving Cop Chase",
@@ -15,7 +15,7 @@
     },
     {
       "AppTitle": "Ambulance Rescue Rush Simulator",
-       "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/icons/monster_truck_icon.png",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/icons/monster_truck_icon.png",
       "Id": "com.gf.oil.tanker.transport.offroad.truckdriver",
       "Asin": "B0FM2N6BVG"
     }
