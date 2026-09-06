@@ -1,0 +1,6 @@
+# Private Local Admin Panel (Keep off public GitHub)
+admin.html
+admin/
+*.bat
+.DS_Store
+Thumbs.db
