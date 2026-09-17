@@ -2,11 +2,11 @@
   "Version": 2,
   "AppsList-Android": [
     {
-       "AppTitle": "JDM Cars: RaceMania",
-      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/JDM_inter.png",
+      "AppTitle": "JDM Cars: RaceMania",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Banner/Jdm_Banner.png",
       "Id": "com.amz.elegant.games.car.drifting.driving.simulator",
       "Asin": "B0H99NR1B7"
     }
-    ],
+  ],
   "AppsList-iOS": []
 }

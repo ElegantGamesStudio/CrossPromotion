@@ -2,23 +2,10 @@
   "Version": 2,
   "AppsList-Android": [
     {
-      "AppTitle": "Police Van Driving Cop Chase",
-      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/banners/bus.png",
-      "Id": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
-      "Asin": "B0FPMCN5YD"
-    },
-    {
-      "AppTitle": "Real Moto Stunt Driving Racing",
-      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/banners/monster-truck.png",
-      "Id": "com.gf.ultimate.monstertrucks",
-      "Asin": "B0FLDXSSRB"
-    },
-    {
-      "AppTitle": "Ambulance Rescue Rush Simulator",
-      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/banners/oil_tanker.png",
-      "Id": "com.gf.oil.tanker.transport.offroad.truckdriver",
-      "Asin": "B0FM2N6BVG"
-    }
-  ],
+            "AppTitle": "JDM Cars: RaceMania",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/jdm_native.png",
+      "Id": "com.amz.elegant.games.car.drifting.driving.simulator",
+      "Asin": "B0H99NR1B7"
+    }  ],
   "AppsList-iOS": []
 }
