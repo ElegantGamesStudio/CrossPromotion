@@ -3,7 +3,7 @@
   "AppsList-Android": [
     {
       "AppTitle": "JDM Cars: RaceMania",
-      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/JDM_Cars_native.jpg",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/JDM_Cars_RaceMania_native.jpg",
       "Id": "com.sibro.jdm.cars.racemania",
       "Asin": "B0H99NR1B7"
     },
@@ -15,7 +15,7 @@
     },
     {
       "AppTitle": "Miami Crime Empire: Gangster City",
-      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/Miami_Crime_native.jpg",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/Miami_Crime_Empire_native.jpg",
       "Id": "com.sibro.miami.crime.empire.gangster",
       "Asin": "B0H216CHNS"
     },
