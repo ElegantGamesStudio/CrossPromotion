@@ -2,10 +2,23 @@
   "Version": 2,
   "AppsList-Android": [
     {
-            "AppTitle": "JDM Cars: RaceMania",
-      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/jdm_native.png",
-      "Id": "com.amz.elegant.games.car.drifting.driving.simulator",
+      "AppTitle": "JDM Cars: RaceMania",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/JDM_Cars_native.jpg",
+      "Id": "com.sibro.jdm.cars.racemania",
       "Asin": "B0H99NR1B7"
-    }  ],
+    },
+    {
+      "AppTitle": "Police Officer: Car Drive Games",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/Police_Officer_Car_native.jpg",
+      "Id": "com.sibro.police.officer.car.drive",
+      "Asin": "B0HB5NQNFZ"
+    },
+    {
+      "AppTitle": "Miami Crime Empire: Gangster City",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/Miami_Crime_native.jpg",
+      "Id": "com.sibro.miami.crime.empire.gangster",
+      "Asin": "B0H216CHNS"
+    }
+  ],
   "AppsList-iOS": []
 }
