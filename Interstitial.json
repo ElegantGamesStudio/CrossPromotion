@@ -2,11 +2,41 @@
   "Version": 2,
   "AppsList-Android": [
     {
-       "AppTitle": "JDM Cars: RaceMania",
-      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/JDM_inter.png",
-      "Id": "com.amz.elegant.games.car.drifting.driving.simulator",
+      "AppTitle": "JDM Cars: RaceMania",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/JDM_Cars_inter.jpg",
+      "Id": "com.sibro.jdm.cars.racemania",
       "Asin": "B0H99NR1B7"
+    },
+    {
+      "AppTitle": "Police Officer: Car Drive Games",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/Police_Officer_inter.jpg",
+      "Id": "com.sibro.police.officer.car.drive",
+      "Asin": "B0HB5NQNFZ"
+    },
+    {
+      "AppTitle": "Miami Crime Empire: Gangster City",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/Miami_Crime_inter.jpg",
+      "Id": "com.sibro.miami.crime.empire.gangster",
+      "Asin": "B0H216CHNS"
+    },
+    {
+      "AppTitle": "US Plane Pilot Missions: Flight Simulator 3D",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/US_Plane_inter.jpg",
+      "Id": "com.sibro.us.plane.pilot.flight.sim",
+      "Asin": "B0H9B2LD68"
+    },
+    {
+      "AppTitle": "4x4 Offroad Driving: Mud & Stunts",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/4x4_Offroad_inter.jpg",
+      "Id": "com.sibro.offroad.driving.mud.stunts",
+      "Asin": "B0HDCV8678"
+    },
+    {
+      "AppTitle": "Real Bike Driving Racing Game",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/Real_Bike_inter.jpg",
+      "Id": "com.sibro.real.bike.driving.racing.game",
+      "Asin": "B0HB4WHJND"
     }
-    ],
+  ],
   "AppsList-iOS": []
 }
