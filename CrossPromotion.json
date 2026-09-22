@@ -36,6 +36,12 @@
       "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/Real_Bike_Driving_native.jpg",
       "Id": "com.sibro.real.bike.driving.racing.game",
       "Asin": "B0HB4WHJND"
+    },
+    {
+      "AppTitle": "HyperCars Transform Wheels Game",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/HyperCars_Transform_Wheels_native.jpg",
+      "Id": "com.sibro.hypercars.transform.wheels",
+      "Asin": "B0HB5WKLCL"
     }
   ],
   "AppsList-iOS": []
