@@ -15,7 +15,7 @@
     },
     {
       "AppTitle": "Miami Crime Empire: Gangster City",
-      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/Miami_Crime_Empire_native.jpg",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/Miami_Crime_Empire_native.png",
       "Id": "com.sibro.miami.crime.empire.gangster",
       "Asin": "B0H216CHNS"
     },
@@ -42,6 +42,12 @@
       "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/Real_Bike_Driving_native.jpg",
       "Id": "com.sibro.real.bike.driving.racing.game",
       "Asin": "B0HB4WHJND"
+    },
+    {
+      "AppTitle": "City Miami Gangster Crime Sim",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/City_Miami_Gangster_native.jpg",
+      "Id": "com.sibro.city.miami.gangster.crime",
+      "Asin": "B0HDCTTZL5"
     }
   ],
   "AppsList-iOS": []
