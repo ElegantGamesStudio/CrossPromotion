@@ -14,12 +14,6 @@
       "Asin": "B0HB5NQNFZ"
     },
     {
-      "AppTitle": "Miami Crime Empire: Gangster City",
-      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/Miami_Crime_Empire_inter.png",
-      "Id": "com.sibro.miami.crime.empire.gangster",
-      "Asin": "B0H216CHNS"
-    },
-    {
       "AppTitle": "US Plane Pilot Missions: Flight Simulator 3D",
       "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/US_Plane_Pilot_inter.jpg",
       "Id": "com.sibro.us.plane.pilot.flight.sim",
@@ -32,6 +26,12 @@
       "Asin": "B0HDCV8678"
     },
     {
+      "AppTitle": "City Miami Gangster Crime Sim",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/City_Miami_Gangster_inter.jpg",
+      "Id": "com.sibro.city.miami.gangster.crime",
+      "Asin": "B0HDCTTZL5"
+    },
+    {
       "AppTitle": "HyperCars Transform Wheels Game",
       "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/HyperCars_Transform_Wheels_inter.jpg",
       "Id": "com.sibro.hypercars.transform.wheels",
@@ -42,12 +42,6 @@
       "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/Real_Bike_Driving_inter.jpg",
       "Id": "com.sibro.real.bike.driving.racing.game",
       "Asin": "B0HB4WHJND"
-    },
-    {
-      "AppTitle": "City Miami Gangster Crime Sim",
-      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/City_Miami_Gangster_inter.jpg",
-      "Id": "com.sibro.city.miami.gangster.crime",
-      "Asin": "B0HDCTTZL5"
     }
   ],
   "AppsList-iOS": []
