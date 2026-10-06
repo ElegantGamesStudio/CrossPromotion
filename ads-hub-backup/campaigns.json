@@ -1,0 +1,50 @@
+[
+    {
+        "id": "mux34qvgfbd1d0",
+        "name": "Car Driving Sim-HO",
+        "host_game_id": "mux34qvgaee89b",
+        "account_id": "mux34qvgf5bc4d",
+        "formats": {
+            "interstitial": true,
+            "banner": true,
+            "native": true
+        },
+        "targets": [
+            {
+                "game_id": "mux34qvg1a760a",
+                "creative_ids": []
+            },
+            {
+                "game_id": "mux34qvg1d42b2",
+                "creative_ids": []
+            },
+            {
+                "game_id": "mux34qvg5e4774",
+                "creative_ids": []
+            },
+            {
+                "game_id": "mux34qvgf548c1",
+                "creative_ids": []
+            },
+            {
+                "game_id": "mux34qvge31f50",
+                "creative_ids": []
+            },
+            {
+                "game_id": "mux34qvg69780f",
+                "creative_ids": []
+            },
+            {
+                "game_id": "mux34qvg18c7cb",
+                "creative_ids": []
+            }
+        ],
+        "banner_interval": 20,
+        "missing_creative": "skip",
+        "global": true,
+        "status": "draft",
+        "created_at": "2026-10-06T19:42:04+00:00",
+        "updated_at": "2026-10-06T19:42:04+00:00",
+        "notes": "Imported from the old dashboard. Import creatives from Git, then launch."
+    }
+]

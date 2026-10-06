@@ -1,0 +1,17 @@
+{
+    "git": {
+        "owner": "ElegantGamesStudio",
+        "repo": "CrossPromotion",
+        "branch": "main",
+        "base_path": "feeds",
+        "backup_path": "ads-hub-backup",
+        "committer_name": "SIBRO Ads Hub",
+        "committer_email": "ads@sibro.co"
+    },
+    "feed": {
+        "banner_interval": 20,
+        "missing_creative": "skip",
+        "image_host": "github"
+    },
+    "public_base_url": ""
+}
