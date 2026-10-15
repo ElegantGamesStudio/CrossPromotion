@@ -37,14 +37,31 @@
             {
                 "game_id": "mux34qvg18c7cb",
                 "creative_ids": []
+            },
+            {
+                "game_id": "mv9cgm1m381c79",
+                "creative_ids": []
             }
         ],
         "banner_interval": 20,
         "missing_creative": "skip",
         "global": true,
-        "status": "draft",
+        "status": "live",
         "created_at": "2026-10-06T19:42:04+00:00",
-        "updated_at": "2026-10-06T19:42:04+00:00",
-        "notes": "Imported from the old dashboard. Import creatives from Git, then launch."
+        "updated_at": "2026-10-15T15:43:01+00:00",
+        "notes": "Imported from the old dashboard. Import creatives from Git, then launch.",
+        "launched_at": "2026-10-15T15:43:01+00:00",
+        "last_publish": {
+            "at": "2026-10-15T15:43:06+00:00",
+            "ok": true,
+            "sha": "017a24a51eb0db35fb97ae9052cd886161bcff9c",
+            "url": "https://github.com/ElegantGamesStudio/CrossPromotion/commit/017a24a51eb0db35fb97ae9052cd886161bcff9c",
+            "unchanged": false,
+            "error": "",
+            "warnings": [
+                "[Car Driving Sim-HO · banner] 4x4 Monster Truck Racing Games: Mega Ramp Stunts: no banner creative, skipped",
+                "[Car Driving Sim-HO · native] 4x4 Monster Truck Racing Games: Mega Ramp Stunts: no native creative, skipped"
+            ]
+        }
     }
 ]

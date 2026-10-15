@@ -29,7 +29,8 @@
         "notes": "Imported from old dashboard",
         "source": "import",
         "created_at": "2026-10-06T19:42:04+00:00",
-        "updated_at": "2026-10-06T19:42:04+00:00"
+        "updated_at": "2026-10-06T19:42:04+00:00",
+        "creatives_changed_at": "2026-10-15T09:16:47+00:00"
     },
     {
         "id": "mux34qvg1d42b2",
@@ -45,7 +46,8 @@
         "notes": "Imported from old dashboard",
         "source": "import",
         "created_at": "2026-10-06T19:42:04+00:00",
-        "updated_at": "2026-10-06T19:42:04+00:00"
+        "updated_at": "2026-10-06T19:42:04+00:00",
+        "creatives_changed_at": "2026-10-15T09:16:48+00:00"
     },
     {
         "id": "mux34qvg052492",
@@ -125,7 +127,8 @@
         "notes": "Imported from old dashboard",
         "source": "import",
         "created_at": "2026-10-06T19:42:04+00:00",
-        "updated_at": "2026-10-06T19:42:04+00:00"
+        "updated_at": "2026-10-06T19:42:04+00:00",
+        "creatives_changed_at": "2026-10-15T09:16:48+00:00"
     },
     {
         "id": "mux34qvgdce832",
@@ -221,7 +224,8 @@
         "notes": "Imported from old dashboard",
         "source": "import",
         "created_at": "2026-10-06T19:42:04+00:00",
-        "updated_at": "2026-10-06T19:42:04+00:00"
+        "updated_at": "2026-10-06T19:42:04+00:00",
+        "creatives_changed_at": "2026-10-15T09:16:49+00:00"
     },
     {
         "id": "mux34qvge31f50",
@@ -237,7 +241,8 @@
         "notes": "Imported from old dashboard",
         "source": "import",
         "created_at": "2026-10-06T19:42:04+00:00",
-        "updated_at": "2026-10-06T19:42:04+00:00"
+        "updated_at": "2026-10-06T19:42:04+00:00",
+        "creatives_changed_at": "2026-10-15T09:16:49+00:00"
     },
     {
         "id": "mux34qvgdff458",
@@ -269,7 +274,8 @@
         "notes": "Imported from old dashboard",
         "source": "import",
         "created_at": "2026-10-06T19:42:04+00:00",
-        "updated_at": "2026-10-06T19:42:04+00:00"
+        "updated_at": "2026-10-06T19:42:04+00:00",
+        "creatives_changed_at": "2026-10-15T09:16:50+00:00"
     },
     {
         "id": "mux34qvg41c4ca",
@@ -573,6 +579,25 @@
         "notes": "Imported from old dashboard",
         "source": "import",
         "created_at": "2026-10-06T19:42:04+00:00",
-        "updated_at": "2026-10-06T19:42:04+00:00"
+        "updated_at": "2026-10-06T19:42:04+00:00",
+        "creatives_changed_at": "2026-10-15T09:16:50+00:00"
+    },
+    {
+        "id": "mv9cgm1m381c79",
+        "account_id": "mux34qvgf5bc4d",
+        "asin": "B0HMCW6HVF",
+        "title": "4x4 Monster Truck Racing Games: Mega Ramp Stunts",
+        "package_name": "com.amz.monster.truck.racing.games.mega",
+        "icon_url": "https://m.media-amazon.com/images/I/810tOYBXB1L._h1_.png",
+        "store_url": "https://www.amazon.com/dp/B0HMCW6HVF",
+        "developer": "HyperOn Studios",
+        "category": "Simulation",
+        "status": "active",
+        "notes": "",
+        "source": "amazon",
+        "fetched_at": "2026-10-15T09:39:48+00:00",
+        "created_at": "2026-10-15T09:36:28+00:00",
+        "updated_at": "2026-10-15T09:40:53+00:00",
+        "creatives_changed_at": "2026-10-15T15:55:41+00:00"
     }
 ]
