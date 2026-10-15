@@ -42,6 +42,14 @@
       "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/Real_Bike_Driving_native.jpg",
       "Id": "com.sibro.real.bike.driving.racing.game",
       "Asin": "B0HB4WHJND"
+    },
+    {
+      "AppTitle": "4x4 Monster Truck Racing Games: Mega Ramp Stunts",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/4x4_Monster_Truck_native_poster.jpg",
+      "Id": "com.amz.monster.truck.racing.games.mega",
+      "Asin": "B0HMCW6HVF",
+      "VideoUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/4x4_Monster_Truck_native.mp4",
+      "MediaType": "video"
     }
   ],
   "AppsList-iOS": []
