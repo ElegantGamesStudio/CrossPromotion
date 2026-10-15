@@ -45,11 +45,9 @@
     },
     {
       "AppTitle": "4x4 Monster Truck Racing Games: Mega Ramp Stunts",
-      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/4x4_Monster_Truck_inter_poster.jpg",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/4x4_Monster_Truck_inter.gif",
       "Id": "com.amz.monster.truck.racing.games.mega",
-      "Asin": "B0HMCW6HVF",
-      "VideoUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Interstitial/4x4_Monster_Truck_inter.mp4",
-      "MediaType": "video"
+      "Asin": "B0HMCW6HVF"
     }
   ],
   "AppsList-iOS": []
