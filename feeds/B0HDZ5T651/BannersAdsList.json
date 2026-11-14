@@ -1,0 +1,49 @@
+{
+  "Version": 2,
+  "AppsList-Android": [
+    {
+      "AppTitle": "4x4 Offroad Driving: Mud & Stunts",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Banner/4x4_Offroad_Driving_banner.jpg",
+      "Id": "com.amz.pi.jeep.suv.driving.offroad.games",
+      "Asin": "B0HDCV8678"
+    },
+    {
+      "AppTitle": "City Miami Gangster Crime Sim",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Banner/City_Miami_Gangster_banner.jpg",
+      "Id": "com.amz.pi.miami.gangster.open.world.crime.game",
+      "Asin": "B0HDCTTZL5"
+    },
+    {
+      "AppTitle": "Police Officer: Car Drive Games",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Banner/Police_Officer_Car_banner.jpg",
+      "Id": "com.amz.elengant.games.cop.criminal.car.driving",
+      "Asin": "B0HB5NQNFZ"
+    },
+    {
+      "AppTitle": "Real Bike Driving Racing Game",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Banner/Real_Bike_Driving_banner.jpg",
+      "Id": "com.amz.pi.moto.rider.xtreme.bike.game",
+      "Asin": "B0HB4WHJND"
+    },
+    {
+      "AppTitle": "US Plane Pilot Missions: Flight Simulator 3D",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Banner/US_Plane_Pilot_banner.jpg",
+      "Id": "com.amz.elegant.games.airplane.pilot.flight.games",
+      "Asin": "B0H9B2LD68"
+    },
+    {
+      "AppTitle": "HyperCars Transform Wheels Game",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Banner/HyperCars_Transform_Wheels_banner.jpg",
+      "Id": "com.amz.pi.real.car.driving.racing.games",
+      "Asin": "B0HB5WKLCL"
+    },
+    {
+      "AppTitle": "JDM Cars: RaceMania",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Banner/JDM_Cars_RaceMania_banner.jpg",
+      "Id": "com.amz.elegant.games.car.drifting.driving.simulator",
+      "Asin": "B0H99NR1B7"
+    }
+  ],
+  "AppsList-iOS": [],
+  "BannerInterval": 20
+}
