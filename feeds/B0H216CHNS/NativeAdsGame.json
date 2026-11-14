@@ -1,0 +1,42 @@
+{
+  "Version": 2,
+  "AppsList-Android": [
+    {
+      "AppTitle": "4x4 Offroad Driving: Mud & Stunts",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/4x4_Offroad_Driving_native.jpg",
+      "Id": "com.amz.pi.jeep.suv.driving.offroad.games",
+      "Asin": "B0HDCV8678"
+    },
+    {
+      "AppTitle": "City Miami Gangster Crime Sim",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/City_Miami_Gangster_native.jpg",
+      "Id": "com.amz.pi.miami.gangster.open.world.crime.game",
+      "Asin": "B0HDCTTZL5"
+    },
+    {
+      "AppTitle": "HyperCars Transform Wheels Game",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/HyperCars_Transform_Wheels_native.jpg",
+      "Id": "com.amz.pi.real.car.driving.racing.games",
+      "Asin": "B0HB5WKLCL"
+    },
+    {
+      "AppTitle": "Police Officer: Car Drive Games",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/Police_Officer_Car_native.jpg",
+      "Id": "com.amz.elengant.games.cop.criminal.car.driving",
+      "Asin": "B0HB5NQNFZ"
+    },
+    {
+      "AppTitle": "Real Bike Driving Racing Game",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/Real_Bike_Driving_native.jpg",
+      "Id": "com.amz.pi.moto.rider.xtreme.bike.game",
+      "Asin": "B0HB4WHJND"
+    },
+    {
+      "AppTitle": "US Plane Pilot Missions: Flight Simulator 3D",
+      "IconUrl": "https://raw.githubusercontent.com/ElegantGamesStudio/CrossPromotion/main/Native/US_Plane_Pilot_native.jpg",
+      "Id": "com.amz.elegant.games.airplane.pilot.flight.games",
+      "Asin": "B0H9B2LD68"
+    }
+  ],
+  "AppsList-iOS": []
+}
